@@ -112,5 +112,3 @@ Despite this simplification, it still achieves ~86% accuracy.
 - Inference time: <50ms per review
 
 ---
-
-*Project 2 of 3 | TCS NQT Prime AI/ML Portfolio*
